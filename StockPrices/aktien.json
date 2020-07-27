@@ -1,0 +1,15 @@
+    [{
+        "otc": "ddaif",
+        "name": "DAIMLER"  
+    }
+    ,
+    {
+        "otc":"baba",
+        "name":"ALIBABA"  
+    }
+    , 
+    {
+        "otc":"tyekf",
+        "name":"Thyssen Krupp"  
+    }
+]
